@@ -1,0 +1,43 @@
+.navbar-custom {
+    background:rgb(192, 13, 37);
+    
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .brand-name {
+    color: rgb(233, 210, 210);
+    font-weight: 900;
+    font-size: 28px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  
+  .user-name-box {
+    background-color: #891ebbcc;
+    font-size: 14px;
+    transition: background 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .user-name-box:hover {
+    background-color: #6ce74d;
+  }
+  
+  .dropdown-menu {
+    font-size: 14px;
+  }
+  
+  .btn-sign {
+    background-color: #ffffff;
+    color: #000;
+    border: 2px solid #fff;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-sign:hover {
+    background-color: #410649;
+    color: white;
+  }
+  
